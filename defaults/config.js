@@ -104,7 +104,7 @@ module.exports = {
 		// @type     string
 		// @default  "Freenode"
 		//
-		name: "Freenode",
+		name: "EsperNet",
 
 		//
 		// Host
@@ -112,7 +112,7 @@ module.exports = {
 		// @type     string
 		// @default  "irc.freenode.org"
 		//
-		host: "irc.freenode.org",
+		host: "irc.esper.net,
 
 		//
 		// Port
@@ -144,7 +144,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		nick: "shout-user",
+		nick: "vfuser",
 
 		//
 		// Username
@@ -152,7 +152,7 @@ module.exports = {
 		// @type     string
 		// @default  "shout-user"
 		//
-		username: "shout-user",
+		username: "vfuser",
 
 		//
 		// Real Name
@@ -160,7 +160,7 @@ module.exports = {
 		// @type     string
 		// @default  "Shout User"
 		//
-		realname: "Shout User",
+		realname: "ViridianForest.com User",
 
 		//
 		// Channels
@@ -168,7 +168,7 @@ module.exports = {
 		// @type     string
 		// @default  "#foo, #shout-irc"
 		//
-		join: "#foo, #shout-irc"
+		join: "#viridianforest"
 	},
 
 	//
